@@ -14,4 +14,4 @@
 - Class Value = Good
 
 ```
-low
+price = low
